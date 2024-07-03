@@ -472,3 +472,5 @@ DECLARE team_member_count INT;
 END$$
 
 DELIMITER;
+
+--commands
